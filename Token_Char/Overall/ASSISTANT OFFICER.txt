@@ -1,0 +1,12 @@
+cover
+sector
+twelve
+comcontrol
+set
+screen
+alpha
+han
+push
+troop
+mount
+tauntaun

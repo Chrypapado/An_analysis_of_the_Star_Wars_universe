@@ -1,0 +1,7 @@
+pressure
+steady
+copilot
+nien
+nunb
+chatter
+observation

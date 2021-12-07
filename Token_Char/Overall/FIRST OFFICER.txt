@@ -1,0 +1,12 @@
+troop
+follow
+stand
+guard
+troop
+hustle
+hallway
+leaving
+guard
+watch
+command
+office

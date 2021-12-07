@@ -1,0 +1,7 @@
+hold
+fire
+life
+form
+must
+short
+circuited

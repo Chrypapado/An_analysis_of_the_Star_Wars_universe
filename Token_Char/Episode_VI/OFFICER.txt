@@ -1,0 +1,6 @@
+inform
+commander
+lord
+vader
+shuttle
+arrived

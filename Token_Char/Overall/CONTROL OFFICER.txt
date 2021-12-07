@@ -1,0 +1,10 @@
+squad
+leader
+picked
+new
+group
+signal
+enemy
+fighter
+coming
+way
